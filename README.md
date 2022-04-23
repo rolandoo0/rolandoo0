@@ -4,7 +4,7 @@ Hi 👋 My name is Rolando Diaz
 Data Scientist
 ---------------------------
 
-I've been coding for almost 3 years now with a focus on data gathering and acquisition. I have a passion for data science and I really enjoy working with all sorts of data. I see data as being part of a bigger story. Without someone to collect and analyze that data, it would have no use. This is why I am committed to studying and developing new way of gathering and analyzing data in an efficient manner for it to be displayed to customers in the best way possible.
+I've been coding for almost 3 years now with a focus on data gathering and acquisition. I have a passion for data science and I really enjoy working with all sorts of data. I see data as being part of a bigger story. Without someone to collect and analyze that data, it would have no use. This is why I am committed to studying and developing new ways of gathering and analyzing data in an efficient manner for it to be displayed to customers in the best way possible.
 
 * 🌍  I'm based in Miami, Florida
 * ✉️  You can contact me at [rolando@sphere-enterprises.com](mailto:rolando@sphere-enterprises.com)
