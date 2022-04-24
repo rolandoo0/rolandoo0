@@ -8,7 +8,7 @@ I've been coding for almost 3 years now with a focus on data gathering and acqui
 
 * 🌍  I'm based in Miami, Florida
 * ✉️  You can contact me at [rolando@sphere-enterprises.com](mailto:rolando@sphere-enterprises.com)
-* 🚀  I'm currently working on [Sphere Enterprises API](http://api.sphere-enterprises.com)
+* 🚀  I'm currently working on [Sphere Enterprises API](http://polkadot.api.sphere-enterprises.com)
 * 🧠  I'm learning FastAPI
 * 🤝  I'm open to collaborating on Data Gathering Projects
 
